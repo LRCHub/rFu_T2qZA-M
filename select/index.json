@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "DEEPNESS",
+  "base_artist": "蓮ノ空女学院スクールアイドルクラブ",
+  "createdAt": "2026-03-11T15:37:07.240392Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Deepness",
+      "artist": "Steve Vai",
+      "has_synced": false,
+      "path": "select/01_Deepness_Steve_Vai.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Master Of Eyes [The Deepness Of Your Eyes]",
+      "artist": "Aretha Franklin",
+      "has_synced": true,
+      "path": "select/02_Master_Of_Eyes_[The_Deepness_Of_Your_Eyes]_Aretha_Franklin.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Master Of Eyes (The Deepness Of Your Eyes)",
+      "artist": "Aretha Franklin",
+      "has_synced": false,
+      "path": "select/03_Master_Of_Eyes_(The_Deepness_Of_Your_Eyes)_Aretha_Franklin.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "DEEPNESS(MISIA 星空のライヴVII@日本武道館)",
+      "artist": "MISIA",
+      "has_synced": false,
+      "path": "select/04_DEEPNESS(MISIA_星空のライヴVII@日本武道館)_MISIA.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "DEEPNESS",
+      "artist": "蓮ノ空女学院スクールアイドルクラブ",
+      "has_synced": true,
+      "path": "select/05_DEEPNESS_蓮ノ空女学院スクールアイドルクラブ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Master of Eyes (The Deepness of Your Eyes)",
+      "artist": "Aretha Franklin",
+      "has_synced": true,
+      "path": "select/06_Master_of_Eyes_(The_Deepness_of_Your_Eyes)_Aretha_Franklin.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DEEPNESS",
+      "artist": "蓮ノ空女学院スクールアイドルクラブ",
+      "has_synced": false,
+      "path": "select/pl_01_DEEPNESS_蓮ノ空女学院スクールアイドルクラブ.txt"
+    }
+  ]
+}
